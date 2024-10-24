@@ -7,6 +7,10 @@
 
 # UT EID: DXL85
 
+# Name: Eric Nguyen
+
+# UT EID: edn447
+
 # Date: 10/21/2024
 import csv
 import sys
